@@ -1,0 +1,21 @@
+* = $800
+LDA #$00
+STA $FFFA
+LDA #$09
+STA $FFFB
+
+LDA #$10
+STA $FFFE
+LDA #$09
+STA $FFFF
+ 
+LOOP:
+ADC #$1
+JMP LOOP
+
+* = $910
+ADC #$10
+RTI
+* = $900
+ADC #$20
+RTI
