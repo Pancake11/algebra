@@ -1,0 +1,6 @@
+﻿  game_of_life.cpp
+C:\Users\maxim\source\repos\GameOfLife\GameOfLife\game_of_life.cpp(19,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\maxim\source\repos\GameOfLife\GameOfLife\game_of_life.cpp(48,36): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\maxim\source\repos\GameOfLife\GameOfLife\game_of_life.cpp(54,8): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\maxim\source\repos\GameOfLife\GameOfLife\game_of_life.cpp(61,12): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+  GameOfLife.vcxproj -> C:\Users\maxim\source\repos\GameOfLife\x64\Debug\GameOfLife.exe
